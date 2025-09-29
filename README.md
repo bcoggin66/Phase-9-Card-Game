@@ -21,16 +21,26 @@ The game supports multiple players, tracks progress through phases, and maintain
 ---
 
 ## ✨ Features
-- 🎮 **Multiplayer Gameplay** – specify number of players at runtime.  
-- 🃏 **Deck Handling** – initialize, shuffle, draw, and discard cards.  
-- 🔄 **Phase Progression** – phases 1–9 with sets and runs checking.  
-- 🚫 **Special Cards** – skip cards (lose turn) and wild cards (flexible use).  
-- 🏆 **Leaderboard System** – saves wins to `leaderboard.txt`.  
-- 🔒 **Input Validation** – prevents invalid menu and card selection.  
+- 🎮 **Multiplayer Gameplay** – specify number of players at runtime  
+- 🃏 **Deck Handling** – initialize, shuffle, draw, and discard cards  
+- 🔄 **Phase Progression** – phases 1–9 with sets and runs checking  
+- 🚫 **Special Cards** – skip cards (lose turn) and wild cards (flexible use)  
+- 🏆 **Leaderboard System** – saves wins to `leaderboard.txt`  
+- 🔒 **Input Validation** – prevents invalid menu and card selection  
 
 ---
 
-## 🛠️ How to Compile
+## 🛠️ Compilation Instructions
+
+You can compile this project in **two different ways**:
+
+
 With GCC:
 ```bash
 gcc phase9.c -o phase9
+
+Using the Makefile (recommended)
+If you have `make` installed, simply run:
+```bash
+make
+
