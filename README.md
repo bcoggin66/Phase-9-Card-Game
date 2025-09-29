@@ -37,10 +37,10 @@ You can compile this project in **two different ways**:
 
 With GCC:
 ```bash
-gcc phase9.c -o phase9
+gcc phase9.c -o phase9```
 
 Using the Makefile (recommended)
 If you have `make` installed, simply run:
 ```bash
-make
+make```
 
