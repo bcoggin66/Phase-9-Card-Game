@@ -34,13 +34,15 @@ The game supports multiple players, tracks progress through phases, and maintain
 
 You can compile this project in **two different ways**:
 
-
+## Method 1
 With GCC:
 ```bash
-gcc phase9.c -o phase9```
+gcc phase9.c -o phase9
+```
 
+## Method 2
 Using the Makefile (recommended)
 If you have `make` installed, simply run:
 ```bash
-make```
+make
 
