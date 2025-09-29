@@ -1,7 +1,7 @@
 # 🎴 Phase 9 Card Game (C Project)
 
 ![C](https://img.shields.io/badge/language-C-blue.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
+![Status](https://img.shields.io/badge/status-completed-brightgreen.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ---
